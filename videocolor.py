@@ -81,4 +81,4 @@ def process_video(input_video="Download.mp4", output_video="outcolor.mp4",
 
 if __name__ == "__main__":
     process_video()
-    print("\nЕсли всё ещё слишком плотно — скажи, уменьшим density ещё сильнее.")
+    print("\nЕсли всё ещё слишком плотно уменьши density ещё сильнее.")
